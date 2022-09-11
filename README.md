@@ -1,2 +1,2 @@
-# Data-analysis-Project
+# Data-analysis-Projects
 Excel data analytics
